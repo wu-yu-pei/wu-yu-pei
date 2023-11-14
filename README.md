@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/本科-20B2AA?style=for-the-badge"></img> 
 <img src="https://img.shields.io/badge/啥都感兴趣-20B2AA?style=for-the-badge"></img> 
 <img src="https://img.shields.io/badge/技术-20B2AA?style=for-the-badge"></img>
+<img src="https://img.shields.io/badge/我很强！-20B2AA?style=for-the-badge"></img>
 <img src="https://img.shields.io/badge/做有意义的事情-20B2AA?style=for-the-badge"></img> 
 <img src="https://img.shields.io/badge/社恐-20B2AA?style=for-the-badge"></img> 
 <img src="https://img.shields.io/badge/求带-20B2AA?style=for-the-badge"></img>
